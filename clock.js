@@ -1,5 +1,5 @@
 function setup() {
-    createCanvas(320,320);
+    createCanvas(300,300);
     angleMode(DEGREES);
 }
 
@@ -22,7 +22,7 @@ function draw() {
 
 
     
-    translate(160,160);
+    translate(150,150);
     rotate(-90);
     
     strokeWeight(2);
