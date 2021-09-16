@@ -25,8 +25,7 @@ function draw() {
     translate(200,200);
     rotate(-90);
     
-    strokeWeight(2);
-    fill(0,0,255);
+    fill(125);
     arc(0, 0, 280, 280, 0, 360);
 
     
