@@ -7,7 +7,7 @@ See live demo [here](https://singlebucks.blogspot.com/2021/09/clock.html)
 
 **MIT &copy; [Sonu kumar kushwaha](https://github.com/flyingsonu122)**
 
-## Oh, Thanks!
+### Thanks!
 
 Thank you for being here! You can find my other projects **[here](https://github.com/flyingsonu122?tab=repositories)**.
 
