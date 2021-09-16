@@ -2,8 +2,7 @@
 
 See live demo [here](https://singlebucks.blogspot.com/2021/09/clock.html)
 
-<br><br><br>
-
+<br><br>
 
 **MIT &copy; [Sonu kumar kushwaha](https://github.com/flyingsonu122)**
 
