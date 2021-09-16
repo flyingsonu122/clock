@@ -22,7 +22,7 @@ function draw() {
 
 
     
-    translate(200,200);
+    translate(160,160);
     rotate(-90);
     
     strokeWeight(2);
