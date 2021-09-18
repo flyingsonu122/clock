@@ -1,6 +1,18 @@
 # clock
 
-See live demo [here](https://singlebucks.blogspot.com/2021/09/clock.html)
+#### See live demo [here](https://singlebucks.blogspot.com/2021/09/clock.html)
+
+<br/>
+
+*You can embed this in website using this below code*
+
+<br/>
+
+```
+      <iframe src="https://preview.p5js.org/flyingsonu736/embed/E5VnWtwlK" height="400"></iframe>
+
+```
+
 
 <br><br>
 
