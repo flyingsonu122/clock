@@ -22,10 +22,10 @@ function draw() {
     
     if(hr>12){
       
-     text(hr%12 + ' : ' + mn + ' : ' + sc, width/2, 35);
+     text(hr%12 + ' : ' + mn + ' : ' + sc + '   AM', width/2, 35);
    
     } else {
-     text(hr + ' : ' + mn + ' : ' + sc, width/2, 35 );
+     text(hr + ' : ' + mn + ' : ' + sc + '   PM, width/2, 35 );
       
      }
 
